@@ -1,5 +1,5 @@
 <p class="about__head">
- tiny writer <a href="#">roadmap.sh</a>.
+ tiny writer <a href="#">link</a>.
 </p>
 
 copy
